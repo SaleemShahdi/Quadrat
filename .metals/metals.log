@@ -2363,3 +2363,5 @@ WARNING: Unmatched cancel notification for request id 11120
 something's wrong: no file:///C:/Users/Shahrez/Documents/Revature/P0/src/main/scala/QUADRAT.scala in Array[String]RangePosition(file:///C:/Users/Shahrez/Documents/Revature/P0/src/main/scala/QUADRAT.scala, 169, 169, 182)
 [0m2021.07.21 23:58:55 INFO  compiling p0 (1 scala source)[0m
 [0m2021.07.21 23:58:58 INFO  time: compiled p0 in 2.97s[0m
+Jul 22, 2021 12:05:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
